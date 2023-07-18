@@ -1,5 +1,5 @@
 # Code-for-Zhang-and-Kim-et-al
-Preprint Link: [https://www.nature.com/articles/s41586-021-03845-0](https://www.biorxiv.org/content/10.1101/2023.07.11.548551v2)
+Preprint Link: [https://www.biorxiv.org/content/10.1101/2023.07.11.548551v2](https://www.biorxiv.org/content/10.1101/2023.07.11.548551v2)
 
 ## Hardware designs and Firmware
 1. Nanosec photometry/optogenetics/behavioral system: [https://github.com/xzhang03/Square_wave_box](https://github.com/xzhang03/NidaqGUI)
